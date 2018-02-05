@@ -8,3 +8,6 @@ carrito.caracteristicas()
 carrito.aceleracion(180)
 carrito.frenado(180,20)
 carrito.detenido()
+
+#ENCAPSULAMIENTO DE OTRA FORMA
+print("Conductor", carrito.getConductor())
