@@ -1,4 +1,4 @@
-from clases import Auto
+from Auto.clases import Auto
 
 
 carrito = Auto("Rojo","Ferrari","1992", 4, 320)
