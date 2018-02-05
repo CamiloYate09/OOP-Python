@@ -28,6 +28,7 @@ class Auto():
         print("Modelo: ", self.modelo)
         print("Llantas: ", self.llantas)
         print("Velocidad: ", self.velocidad)
+        # ENCAPSULAMIENTO DE ATRIBUTOS
         print("Conductor", self.getConductor())
     def aceleracion(self, aceleracion):
         for i in range(0, aceleracion, 2):

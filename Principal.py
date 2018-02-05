@@ -2,6 +2,7 @@ from clases import Auto
 
 
 carrito = Auto("Rojo","Ferrari","1992", 4, 320)
+#ENCAPSULAMIENTO DE ATRIBUTOS
 carrito.setConductor("camilo Yalt")
 carrito.caracteristicas()
 carrito.aceleracion(180)
